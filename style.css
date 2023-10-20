@@ -12,7 +12,7 @@
   left: 0;
 }
 .video-header video {
-  background: brown;
+  background: black;
   object-fit: cover;
 }
 .video-header .viewport-header {
